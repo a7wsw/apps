@@ -1,12 +1,12 @@
 {
-  "name": "My Source",
-  "identifier": "com.myname.mysource",
+  "name": "关注微信公众号《阿柒万事屋》",
+  "identifier": "com.github.a7wsw",
   "sourceURL": "https://github.com/noah978/AltStore-Docs/raw/master/apps.json",
   "apps": [
     {
-      "name": "My App",
-      "bundleIdentifier": "com.myname.myapp",
-      "developerName": "My Name",
+      "name": "TT",
+      "bundleIdentifier": "com.a7wsw.tt",
+      "developerName": "关注微信公众号《阿柒万事屋》",
       "subtitle": "The newest and greatest app around.",
       "version": "1.0",
       "versionDate": "2020-04-21",
