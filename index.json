@@ -18,12 +18,13 @@
       "size": 17268194,
       "permissions": [
         {
-          "type": "photos",
-          "usageDescription": "Allows you to use your photo library to set your profile image."
+          "type": "gps",
+          "usageDescription": "地图获取定位数据."
         }
       ],
       "screenshotURLs": [
-        "https://a7wsw.github.io/appstore/apps/TT/screen0.jpg"
+        "https://a7wsw.github.io/appstore/apps/TT/screen0.jpg",
+        "https://a7wsw.github.io/appstore/apps/TT/screen1.jpg"
       ],
       "beta": false
     }
