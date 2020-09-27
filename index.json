@@ -1,12 +1,12 @@
 {
-  "name": "关注微信公众号《阿柒万事屋》",
+  "name": "阿柒万事屋",
   "identifier": "com.github.a7wsw",
   "sourceURL": "https://github.com/noah978/AltStore-Docs/raw/master/apps.json",
   "apps": [
     {
       "name": "TT",
       "bundleIdentifier": "com.a7wsw.tt",
-      "developerName": "关注微信公众号《阿柒万事屋》",
+      "developerName": "关注微信公众号《阿柒万事屋》\n 了解更多黑科技！",
       "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0",
       "versionDate": "2020-09-28",
