@@ -6,7 +6,7 @@
     {
       "name": "TT",
       "bundleIdentifier": "com.a7wsw.tt",
-      "developerName": "关注微信公众号《阿柒万事屋》\n 了解更多黑科技！",
+      "developerName": "关注微信公众号《阿柒万事屋》",
       "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0",
       "versionDate": "2020-09-28",
@@ -26,7 +26,7 @@
         "https://a7wsw.github.io/appstore/apps/TT/screen0.jpg",
         "https://a7wsw.github.io/appstore/apps/TT/screen1.jpg"
       ],
-      "beta": false
+      "beta": true
     }
   ],
   "news": [
