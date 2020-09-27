@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "TT",
-      "bundleIdentifier": "com.a7wsw.tt",
+      "bundleIdentifier": "com.through.gps",
       "developerName": "关注微信公众号《阿柒万事屋》",
       "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
 
     {
       "name": "MM",
-      "bundleIdentifier": "com.a7wsw.mm",
+      "bundleIdentifier": "com.mmdw.app",
       "developerName": "关注微信公众号《阿柒万事屋》",
       "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
 
     {
       "name": "SuperGo",
-      "bundleIdentifier": "com.a7wsw.supergo",
+      "bundleIdentifier": "com.mmp.mmpas",
       "developerName": "关注微信公众号《阿柒万事屋》",
       "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0.0",
