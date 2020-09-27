@@ -7,15 +7,15 @@
       "name": "TT",
       "bundleIdentifier": "com.a7wsw.tt",
       "developerName": "关注微信公众号《阿柒万事屋》",
-      "subtitle": "The newest and greatest app around.",
+      "subtitle": "关注微信公众号《阿柒万事屋》",
       "version": "1.0",
-      "versionDate": "2020-04-21",
-      "versionDescription": "Squashed some bugs, made some new bugs.",
-      "downloadURL": "https://myapp.com/app.ipa",
-      "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
-      "iconURL": "https://myapp.com/assets/icon.png",
+      "versionDate": "2020-09-28",
+      "versionDescription": "关注微信公众号《阿柒万事屋》",
+      "downloadURL": "https://a7wsw.github.io/appstore/apps/TT/TT.ipa",
+      "localizedDescription": "关注微信公众号《阿柒万事屋》",
+      "iconURL": "https://a7wsw.github.io/appstore/apps/TT/logo.png",
       "tintColor": "8A28F7",
-      "size": 857669,
+      "size": 17268194,
       "permissions": [
         {
           "type": "photos",
@@ -23,21 +23,21 @@
         }
       ],
       "screenshotURLs": [
-        "https://myapp.com/assets/screen0.png"
+        "5/apps/TT/screen0.png"
       ],
       "beta": false
     }
   ],
   "news": [
     {
-      "title": "My App Now Available!",
-      "identifier": "my-app-available-download",
-      "caption": "The app to beat all apps.",
-      "date": "2020-04-21",
+      "title": "关注微信公众号《阿柒万事屋》",
+      "identifier": "a7wsw-app-available-download",
+      "caption": "关注微信公众号《阿柒万事屋》",
+      "date": "2020-09-28",
       "tintColor": "8A28F7",
-      "imageURL": "https://myapp.com/assets/news.png",
-      "url": "https://myapp.com",
-      "appID": "com.myname.myapp",
+      "imageURL": "https://a7wsw.github.io/appstore/apps/TT/news.png",
+      "url": "https://mp.weixin.qq.com/s/-LWqs6vRxkX8xZ0CA_ootg",
+      "appID": "com.a7wsw.app",
       "notify": false
     }
   ]
