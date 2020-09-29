@@ -1,7 +1,7 @@
 {
   "name": "阿柒万事屋",
   "identifier": "com.github.a7wsw",
-  "sourceURL": "https://a7wsw.github.io/appstore/index.json",
+  "sourceURL": "https://github.com/noah978/AltStore-Docs/raw/master/apps.json",
 
 
   "apps": [
@@ -13,9 +13,9 @@
       "version": "1.0.0",
       "versionDate": "2020-09-27",
       "versionDescription": "关注微信公众号《阿柒万事屋》",
-      "downloadURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/TT/TT.ipa",
+      "downloadURL": "https://a7wsw.github.io/appstore/apps/TT/TT.ipa",
       "localizedDescription": "关注微信公众号《阿柒万事屋》",
-      "iconURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/TT/logo.png",
+      "iconURL": "https://a7wsw.github.io/appstore/apps/TT/logo.png",
       "tintColor": "8A28F7",
       "size": 17268194,
       "permissions": [
@@ -25,8 +25,8 @@
         }
       ],
       "screenshotURLs": [
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/TT/screen0.jpg",
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/TT/screen1.jpg"
+        "https://a7wsw.github.io/appstore/apps/TT/screen0.jpg",
+        "https://a7wsw.github.io/appstore/apps/TT/screen1.jpg"
       ],
       "beta": false
     },
@@ -39,9 +39,9 @@
       "version": "1.0.0",
       "versionDate": "2020-09-27",
       "versionDescription": "关注微信公众号《阿柒万事屋》",
-      "downloadURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/MM/MM.ipa",
+      "downloadURL": "https://a7wsw.github.io/appstore/apps/MM/MM.ipa",
       "localizedDescription": "关注微信公众号《阿柒万事屋》",
-      "iconURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/MM/logo.png",
+      "iconURL": "https://a7wsw.github.io/appstore/apps/MM/logo.png",
       "tintColor": "8A28F7",
       "size": 17940816,
       "permissions": [
@@ -51,8 +51,8 @@
         }
       ],
       "screenshotURLs": [
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/MM/screen0.jpg",
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/MM/screen1.jpg"
+        "https://a7wsw.github.io/appstore/apps/MM/screen0.jpg",
+        "https://a7wsw.github.io/appstore/apps/MM/screen1.jpg"
       ],
       "beta": false
     },
@@ -65,9 +65,9 @@
       "version": "1.0.0",
       "versionDate": "2020-09-27",
       "versionDescription": "关注微信公众号《阿柒万事屋》",
-      "downloadURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/SuperGo/SuperGo.ipa",
+      "downloadURL": "https://a7wsw.github.io/appstore/apps/SuperGo/SuperGo.ipa",
       "localizedDescription": "关注微信公众号《阿柒万事屋》",
-      "iconURL": "http://qhevwlx0g.hn-bkt.clouddn.com/apps/SuperGo/logo.png",
+      "iconURL": "https://a7wsw.github.io/appstore/apps/SuperGo/logo.png",
       "tintColor": "8A28F7",
       "size": 28292544,
       "permissions": [
@@ -77,8 +77,8 @@
         }
       ],
       "screenshotURLs": [
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/SuperGo/screen0.jpg",
-        "http://qhevwlx0g.hn-bkt.clouddn.com/apps/SuperGo/screen1.jpg"
+        "https://a7wsw.github.io/appstore/apps/SuperGo/screen0.jpg",
+        "https://a7wsw.github.io/appstore/apps/SuperGo/screen1.jpg"
       ],
       "beta": false
     }
@@ -87,20 +87,39 @@
 
   ],
 
-
-
-
   "news": [
     {
       "title": "阿柒万事屋",
-      "identifier": "a7wsw-app-available-download",
+      "identifier": "a7wsw-app-available-download1",
       "caption": "关注微信公众号《阿柒万事屋》\n带您了解更多黑科技！",
       "date": "2020-09-28",
       "tintColor": "8A28F7",
-      "imageURL": "http://qhevwlx0g.hn-bkt.clouddn.com/news/news.jpg",
+      "imageURL": "https://a7wsw.github.io/appstore/news/news.jpg",
       "url": "https://mp.weixin.qq.com/s/-LWqs6vRxkX8xZ0CA_ootg",
       "appID": "com.a7wsw.app",
-      "notify": false
+      "notify": true
+    },
+    {
+      "title": "阿柒万事屋",
+      "identifier": "a7wsw-app-available-download2",
+      "caption": "关注微信公众号《阿柒万事屋》\n带您了解更多黑科技！",
+      "date": "2020-09-28",
+      "tintColor": "8A28F7",
+      "imageURL": "https://a7wsw.github.io/appstore/news/news.jpg",
+      "url": "https://mp.weixin.qq.com/s/-LWqs6vRxkX8xZ0CA_ootg",
+      "appID": "com.a7wsw.app",
+      "notify": true
+    },
+    {
+      "title": "阿柒万事屋",
+      "identifier": "a7wsw-app-available-download3",
+      "caption": "关注微信公众号《阿柒万事屋》\n带您了解更多黑科技！",
+      "date": "2020-09-28",
+      "tintColor": "8A28F7",
+      "imageURL": "https://a7wsw.github.io/appstore/news/news.jpg",
+      "url": "https://mp.weixin.qq.com/s/-LWqs6vRxkX8xZ0CA_ootg",
+      "appID": "com.a7wsw.app",
+      "notify": true
     }
   ]
 }
